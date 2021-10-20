@@ -19,7 +19,9 @@ Configure uma aplição em seu GitHub: Settings > Developer Settings: Adicione u
 
 Adicione um valor que servirá de chave para o **JWT_TOKEN** no arquivo .env
 
-## yarn
+## Prisma
 yarn prisma migrate dev #criar banco de dados
+
 yarn dev
+
 O projeto estará escutando a porta **4000**
